@@ -5,22 +5,25 @@ import ProductTab from './ProductTab.jsx'
 
 
 
+
 function App() {
  
 
   return (
     <>
-    <ProductTab />
+    <h2>
+  BlockBuster Deals shop Now 
+ </h2>
+      
+      <ProductTab />
+   
+      
+      
     </>
-
-    
-
-
-
-  );
+    );
  
     
   
 }
   
-export default App
+export default App;
